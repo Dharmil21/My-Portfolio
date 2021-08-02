@@ -23,7 +23,7 @@ app.use("/", express.static(publicPath));
 // app.use("/", indexRoute);
 
 //listening on port 3000
-app.listen(3000, function () {
+app.listen(4000, function () {
   console.log("Example app listening on port 3000!");
 });
 
